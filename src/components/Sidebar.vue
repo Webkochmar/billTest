@@ -126,15 +126,13 @@ export default {
   padding-bottom: 10px;
   margin-bottom: 15px;
 }
-.filter-checked{
-  padding: 10px 10px 10px 20px;
-}
 .filter-checked:hover{
   background: #F1FCFF;
 }
 .filter-checked label{
   display: flex;
   cursor: pointer;
+  padding: 10px 10px 10px 20px;
 }
 .filter-checked label span{
   border: 1px solid #9ABBCE;
